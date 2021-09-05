@@ -1,0 +1,7 @@
+spring:
+  apllication:
+    name: gatway
+
+config:
+  cloud:
+    url: http://localhost:8888
